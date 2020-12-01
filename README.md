@@ -1,0 +1,2 @@
+# zaliczeniee
+wszystkie przyciski działają
